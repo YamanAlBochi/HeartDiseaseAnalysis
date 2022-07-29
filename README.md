@@ -24,4 +24,4 @@ Questions:
 17.  Check Resting Blood Pressure Distribution
 18. Compare Resting Blood Pressure As Per Sex Column
 19. Show Distribution of Serum cholesterol
-20. Plot Continuous Variables
+20. Plot Continuous Variable
